@@ -13,6 +13,7 @@ For example:
 
 After running your query, the above salary table should have the following rows:
 
+|id|name|sex|salary|
 |---|---|---|---|
 |1|A|f|2500|
 |2|B|m|1500|
