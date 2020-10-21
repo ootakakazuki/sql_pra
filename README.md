@@ -25,7 +25,7 @@ Result table:
 | 4          | Luis       | 800        | No                    |
 
 
-'
+```
 select Users.user_id as user_id 
     , Users.user_name as user_name 
     , credit+ifnull(sum(trans),0) as credit
@@ -38,4 +38,4 @@ from(
     from Transaction
 ) t right join users on t.user_id=users.user_id
 group by user_id
-'
+```
