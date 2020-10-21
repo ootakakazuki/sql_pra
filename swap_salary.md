@@ -33,7 +33,6 @@ insert into salary (id, name, sex, salary) values ('2', 'B', 'f', '1500');
 insert into salary (id, name, sex, salary) values ('3', 'C', 'm', '5500');
 insert into salary (id, name, sex, salary) values ('4', 'D', 'f', '500');
 Solution
-use leetcode;
  
 update salary set sex = (case when sex = 'f' then 'm' else 'f' end);
  
