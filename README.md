@@ -1,15 +1,12 @@
 Users table:
 
 +------------+--------------+-------------+
-
 | user_id    | user_name    | credit      |
-
 +------------+--------------+-------------+
-
 | 1          | Moustafa     | 100         |
 | 2          | Jonathan     | 200         |
 | 3          | Winston      | 10000       |
-| 4          | Luis         | 800         | 
+| 4          | Luis         | 800         |
 +------------+--------------+-------------+
 
 Transaction table:
@@ -25,7 +22,7 @@ Result table:
 +------------+------------+------------+-----------------------+
 | user_id    | user_name  | credit     | credit_limit_breached |
 +------------+------------+------------+-----------------------+
-| 1          | Moustafa   | -100       | Yes                   | 
+| 1          | Moustafa   | -100       | Yes                   |
 | 2          | Jonathan   | 500        | No                    |
 | 3          | Winston    | 9990       | No                    |
 | 4          | Luis       | 800        | No                    |
