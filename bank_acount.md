@@ -21,7 +21,7 @@ Result table:
 |------------|------------|------------|-----------------------|
 | 1          | Moustafa   | -100       | Yes                   |
 | 2          | Jonathan   | 500        | No                    |
-| 3          | Winston    | 9990       | No                    |
+| 3          | Winston    | 9900       | No                    |
 | 4          | Luis       | 800        | No                    |
 
 
