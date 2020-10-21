@@ -4,7 +4,7 @@ Given a table salary, such as the one below, that has m=male and f=female values
 
 For example:
 
-|id	name	sex	salary|
+|id|name|sex|salary|
 |---|---|---|---|
 |1|A|m|2500|
 |2|B|f|1500|
