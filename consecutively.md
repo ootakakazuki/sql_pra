@@ -3,9 +3,9 @@
 
     Write a SQL query to find all numbers that appear at least three times consecutively.
     
-    |Id|Num|
-    |----|-----|
-    |1|1|
+    |Id  |Num |
+    |----|----|
+    |1   |1   |
     |2|1|
     |3|1|
     |4|2|
