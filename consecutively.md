@@ -13,6 +13,7 @@
     |6|2|
     |7|2|
     
+    
 For example, given the above Logs table, 1 is the only number that appears consecutively for at least three times.
     
     | ConsecutiveNums |
